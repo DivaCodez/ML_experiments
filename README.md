@@ -43,6 +43,7 @@ This repository serves as my digital notebook for transitioning into the world o
 | **Cahier Vacances: Project 1** | *SQLite, SQL Queries, Relational Databases* | *Exploring databases and extracting insights by writing various SQL queries to answer specific analytical questions.* |
 | **Cahier Vacances: Project 2** | *Scikit-Learn, Train/Test Split, Data Preprocessing, Random Forest, Matplotlib, Confusion matrix* | *Analyzing a World Cup dataset to test hypotheses, preparing the data, training a classification model, and visualizing key metrics.* |
 | **Cahier Vacances: Project 3** | *NumPy, Traveling Salesperson Problem (TSP), Greedy Algorithm, 2-Opt Algorithm, KMeans, Agglomerative Hierarchical Clustering* | *Optimizing the 2027 Tour de France route across 120 cities into 21 stages using unsupervised clustering and combinatorial optimization heuristics.* |
+| **Cahier Vacances: Project 4** | *Hugging Face Transformers, PyPDF, Sentence-Transformers, LLM, RAG, Embeddings, t-SNE, RAG* | *Building a virtual assistant for a hotel using Retrieval-Augmented Generation (RAG) to eliminate LLM hallucinations and deliver precise, context-backed answers.* |
 
 
 
