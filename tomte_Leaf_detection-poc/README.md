@@ -23,13 +23,7 @@ To address challenge areas like background confusion and small spot detection, t
 | Iteration | Setup & Augmentations | Early Blight Recall | Late Blight Recall | Key Insights / Progress |
 | --- | --- | --- | --- | --- |
 | **Iteration 1** | Baseline (60 Epochs) | Low | Low | Struggled to detect small disease spots and distinct patterns. |
-| **Iteration 2** | Extended Epochs & Confidence Adjustment | 9%
-
- | 12%
-
- | Severe background confusion (False Negatives > 85%).
-
- |
+| **Iteration 2** | Extended Epochs & Confidence Adjustment | 9% | 12% | Severe background confusion (False Negatives > 85%).|
 | **Iteration 3 (Final)** | 150 Epochs + Augmentations (`degrees=15`, `flipud=0.5`, `fliplr=0.5`, `hsv_v=0.4`, `hsv_s=0.4`, `mosaic=1.0`) | **82%**<br> | **72%**<br> | **Major Breakthrough:** Clear disease differentiation and strong spot sensitivity.
 
  |
