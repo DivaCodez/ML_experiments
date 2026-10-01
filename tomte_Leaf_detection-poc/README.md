@@ -38,9 +38,7 @@ To address challenge areas like background confusion and small spot detection, t
 
 ```text
 .
-├── data/                  # Kaggle images & Label Studio YOLO exports
-│   ├── images/
-│   └── labels/
+├── data.zip                  # Kaggle images & Label Studio YOLO exports
 ├── weights/                  # Trained YOLOv8 model weights (.pt)
 ├── src/                  # Kaggle images & Label Studio YOLO exports
 │   ├── main.py/
